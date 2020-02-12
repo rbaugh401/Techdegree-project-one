@@ -209,5 +209,34 @@ a.social:hover {
     margin: 40px auto;
   }
 
+  .experience{
+    display: block;
+    align: center;
+  }
 }
 
+/* Experience page CSS */
+.card experience{
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 600px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #999;
+  border-radius: 6px;
+  transition: all .5s;
+}
+.card experience:hover {
+  border-color: #c9c902;
+}
+
+.side-image {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 300px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #999;
+  border-radius: 6px;
+  transition: all .5s;
+}
