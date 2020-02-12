@@ -86,7 +86,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: rgb(4, 0, 61);
-  color: #e6f8ea;
+  color: #c9c902;
 }
 .card {
   margin: 30px;
@@ -99,12 +99,12 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #fcaa30;
+  border-color: #c9c902;
 }
 
 main div h2 {
-  color: #acac05;
-  text-shadow: 1px 1px .5px #003500;
+  color:#fcaa30 ;
+  text-shadow: 1px 1px .5px #000000;
   font-size: 30px;
 }
 
@@ -123,7 +123,7 @@ ul.skills {
 }
 
 .skills li:nth-child(odd) {
-  background: #007fc9;
+  background:  #007fc9;
 }
 
 footer {
