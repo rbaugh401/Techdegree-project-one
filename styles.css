@@ -243,16 +243,15 @@ a.social:hover {
 
 .affinity {
   font-size: 30 px;
-
 }
 
-header {
+/*header {
   background: url(images/cup-of-coffee-1280537_1920.jpg) no-repeat center center;
   background-size: cover;
   overflow: hidden;
-  padding-top: 60px;
+  padding-top: 60px;*/
 }
-section ul a {
+section a {
   text-decoration: none;
   color: #444444;
 }
