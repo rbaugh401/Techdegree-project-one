@@ -233,10 +233,6 @@ a.social:hover {
 .side-image {
   margin: 30px;
   padding: 20px 40px 40px;
-  max-width: 300px;
-  text-align: left;
-  background: #fff;
-  border-bottom: 4px solid #999;
-  border-radius: 6px;
-  transition: all .5s;
+  max-width: 500px;
+
 }
