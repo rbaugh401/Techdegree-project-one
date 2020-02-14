@@ -15,10 +15,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: #ffffff;
 }
+
 a:hover {
-  color: #6633ff;
+  color: #b6b0a7;
 }
 
 /* Section Styles */
@@ -124,6 +125,7 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background:  #007fc9;
+
 }
 
 footer {
@@ -235,4 +237,26 @@ a.social:hover {
   padding: 20px 40px 40px;
   max-width: 400px;
 
+}
+
+/*Resources CSS */
+
+.affinity {
+  font-size: 30 px;
+
+}
+
+header {
+  background: url(images/cup-of-coffee-1280537_1920.jpg) no-repeat center center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+section ul a {
+  text-decoration: none;
+  color: #444444;
+}
+
+a:hover {
+  color: #b6b0a7;
 }
