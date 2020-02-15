@@ -58,13 +58,13 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/oregon-tree-background.jpg') no-repeat center center ;
+  background: url('images/oregon-tree-background.jpg') no-repeat center center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
 header {
-  line-height: 1.5;
+  line-height: 1.5px;
 }
 header .profile-image {
   margin-top: 50px;
@@ -80,7 +80,7 @@ header .profile-image:hover {
 .tag {
   background-color: #003500;
   color: #f0faf2;
-  padding: 10px;
+  padding: 20px;
   border-radius: 15px;
   display: table;
   margin: 10px auto;
@@ -219,8 +219,7 @@ a.social:hover {
 
 /* Experience page CSS */
 .card experience{
-  margin: 30px;
-  padding: 20px 40px 40px;
+  margin: auto;
   max-width: 600px;
   text-align: left;
   background: #fff;
@@ -233,7 +232,7 @@ a.social:hover {
 }
 
 .side-image {
-  margin: 30px;
+  margin: auto;
   padding: 20px 40px 40px;
   max-width: 400px;
 
@@ -243,14 +242,23 @@ a.social:hover {
 
 .affinity {
   font-size: 30 px;
+  color: #fcaa30;
 }
 
+.affinity:hover{
+  color: #928f8f;
+}
+
+.resources-header {
+  
+}
 /*header {
   background: url(images/cup-of-coffee-1280537_1920.jpg) no-repeat center center;
   background-size: cover;
   overflow: hidden;
-  padding-top: 60px;*/
-}
+  padding-top: 60px;
+} */
+
 section a {
   text-decoration: none;
   color: #444444;
