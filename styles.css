@@ -80,7 +80,7 @@ header .profile-image:hover {
 .tag {
   background-color: #003500;
   color: #f0faf2;
-  padding: 20px;
+  padding: 25px;
   border-radius: 15px;
   display: table;
   margin: 10px auto;
@@ -227,14 +227,15 @@ a.social:hover {
 
 .side-image {
   margin: auto;
-  padding: 20px 40px 40px;
-  max-width: 400px;
+  padding: 20px 20px;
+  max-width: 450px;
+  max-height: 305px;
 }
 
 /*Resources CSS */
 
 .affinity {
-  font-size: 30 px;
+  font-size: 20px;
   color: #fcaa30;
 }
 
@@ -242,8 +243,10 @@ a.social:hover {
   color: #928f8f;
 }
 
-.resources-header {
-  
+.header-two{
+  margin: auto;
+  padding: 170px 40px;
+  size: 200%;
 }
 /*header {
   background: url(images/cup-of-coffee-1280537_1920.jpg) no-repeat center center;
