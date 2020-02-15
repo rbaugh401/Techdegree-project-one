@@ -170,6 +170,40 @@ a.social:hover {
   clear: both;
 }
 
+/* Experience page CSS */
+
+.side-image {
+  margin: auto;
+  padding: 20px 20px;
+  max-width: 450px;
+  max-height: 305px;
+}
+
+/*Resources page CSS*/
+
+.affinity {
+  font-size: 20px;
+  color: #fcaa30;
+}
+
+.affinity:hover{
+  color: #928f8f;
+}
+
+.header-two{
+  margin: auto;
+  padding: 170px 40px;
+}
+
+section a {
+  text-decoration: none;
+  color: #444444;
+}
+
+a:hover {
+  color: #b6b0a7;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
@@ -207,59 +241,6 @@ a.social:hover {
 
   .experience{
     display: block;
-    align: center;
   }
 }
 
-/* Experience page CSS */
-.card experience{
-  margin: auto;
-  max-width: 600px;
-  text-align: left;
-  background: #fff;
-  border-bottom: 4px solid #999;
-  border-radius: 6px;
-  transition: all .5s;
-}
-.card experience:hover {
-  border-color: #c9c902;
-}
-
-.side-image {
-  margin: auto;
-  padding: 20px 20px;
-  max-width: 450px;
-  max-height: 305px;
-}
-
-/*Resources CSS */
-
-.affinity {
-  font-size: 20px;
-  color: #fcaa30;
-}
-
-.affinity:hover{
-  color: #928f8f;
-}
-
-.header-two{
-  margin: auto;
-  padding: 170px 40px;
-  size: 200%;
-}
-/*header {
-  background: url(images/cup-of-coffee-1280537_1920.jpg) no-repeat center center;
-  background-size: cover;
-  overflow: hidden;
-  padding-top: 60px;
-} */
-
-section a {
-  text-decoration: none;
-  color: #444444;
-}
-
-a:hover {
-  color: #b6b0a7;
-}
