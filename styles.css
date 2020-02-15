@@ -108,12 +108,10 @@ main div h2 {
   text-shadow: 1px 1px .5px #000000;
   font-size: 30px;
 }
-
 ul.skills {
   padding: 0;
   text-align: center;
 }
-
 .skills li {
   border-radius: 6px;
   display: inline-block;
@@ -122,10 +120,8 @@ ul.skills {
   padding: 5px 10px;
   margin: 2px;
 }
-
 .skills li:nth-child(odd) {
   background:  #007fc9;
-
 }
 
 footer {
@@ -133,7 +129,6 @@ footer {
   min-height: 30px;
   padding: 20px 0 40px 20px;
 }
-
 footer .copyright {
   top: -8px;
   font-size: .75em;
@@ -196,7 +191,6 @@ a.social:hover {
     padding: 0 30px;
   }
 
-
   main {
     padding-top: 20px;
   }
@@ -235,7 +229,6 @@ a.social:hover {
   margin: auto;
   padding: 20px 40px 40px;
   max-width: 400px;
-
 }
 
 /*Resources CSS */
